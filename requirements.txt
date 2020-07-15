@@ -1,0 +1,2 @@
+transformers
+pytorch-metric-learning[with-hooks-cpu]

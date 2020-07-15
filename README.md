@@ -1,2 +1,2 @@
 # FAIR
-FAq And Intent Retrieval system
+Faq And Intent Retrieval system
